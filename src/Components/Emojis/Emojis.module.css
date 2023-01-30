@@ -1,0 +1,8 @@
+.emojis {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: center;
+
+  margin-top: 32px;
+}

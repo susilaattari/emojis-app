@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  flex-direction: column;
+
+  min-height: calc(100vh - 55px);
+  max-width: 480px;
+  background-color: rgb(236, 208, 146);
+  margin: 0 auto;
+  padding: 12px;
+}
